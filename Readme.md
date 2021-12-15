@@ -2,7 +2,7 @@
 Solutions for CS50's Understanding Technology course.<br>
 <br>
 Includes:<br>
-Projects solutions<br>
+Project solutions<br>
 Quizzes answers<br>
 <br>
 Course info:<br>
